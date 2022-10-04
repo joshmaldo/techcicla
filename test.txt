@@ -1,0 +1,28 @@
+BD
+DBNAME: u445911149_tech
+DBUSER: u445911149_cicla
+DBHOST: mysql.hostinger.es
+pass: apgzs97h
+
+Login
+https://cpanel.hostinger.es
+user: blownchrist@gmail.com
+clave: apgzs97h
+
+
+FTP
+Host FTP: ftp.techcicla.esy.es
+IP FTP: 31.220.16.24
+Puerto FTP: 21
+Usuario FTP: u445911149
+Contraseña FTP: apgzs97h
+
+
+
+Link de script PHP
+
+URL1: http://techcicla.esy.es/write_data.php
+URL2: http://techcicla.esy.es/read_config.php
+URL3: http://techcicla.esy.es/write_config.php
+URL4: http://techcicla.esy.es/update_key.php
+
